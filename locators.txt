@@ -7,7 +7,7 @@
 //div[@id='ios']
 #ios
 
-//div[@id='fanPage']
+//a[@id='fanPage']
 #fanPage
 
 //div[@id='privacyPolicy']
